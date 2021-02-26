@@ -1,4 +1,4 @@
-# MovieFlutter
+# Movie App =>  Caching, RxDart, Provider, Bloc, RestApi, Sqflite.
 
 A new Flutter application.
 
