@@ -1,3 +1,3 @@
-# Movie App Caching, RxDart, Provider, BLoC, RestApi, Sqflite.
+# Movie App : Caching, RxDart, Provider, BLoC, RestApi, Sqflite.
 
 
