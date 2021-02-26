@@ -1,4 +1,4 @@
-# quizapp
+# MovieFlutter
 
 A new Flutter application.
 
