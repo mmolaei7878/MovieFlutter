@@ -1,4 +1,4 @@
-# Movie App Caching, RxDart, Provider, Bloc, RestApi, Sqflite.
+# Movie App Caching, RxDart, Provider, BLoC, RestApi, Sqflite.
 
 A new Flutter application.
 
