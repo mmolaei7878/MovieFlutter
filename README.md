@@ -1,5 +1,8 @@
-# Movie App : Caching, RxDart, Provider, BLoC Pattern, RestApi, Sqflite.
-# Serializing JSON inside model classes
+# Movie App 
+# StateManagment : BLoC Pattern with RxDart
+# JsonDecoding :  Serializing JSON inside model classes
+
+## Features :  Caching, RestApi, Sqflite.
 
 
 | <img src="https://user-images.githubusercontent.com/79679398/109254821-055d3c80-7808-11eb-9ebd-a278cce5d1c5.jpg" width="300"> |
