@@ -1,7 +1,7 @@
 # Movie App 
 # StateManagment : BLoC Pattern with RxDart
 # JsonDecoding :  Serializing JSON inside model classes
-
+# provider package to communicate with Sqflite Database
 ## Features :  Caching, RestApi, Sqflite.
 
 
